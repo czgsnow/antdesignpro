@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/',
-    redirect: '/x6test',
+    redirect: '/ccc/bbb/ddd/x6test',
   },
   {
     component: './404',
